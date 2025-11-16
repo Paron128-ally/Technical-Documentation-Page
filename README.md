@@ -1,1 +1,1 @@
-# Technical-Documentation-Page
+A course on the website of freecodecamp posted a project task in which one has to build a mock technical documentation page. Thanks to this project, I learned a lot about html semantics and css properties. This repositary contains the code for the mock documentation page I built.#Technical-Documentation-Page
